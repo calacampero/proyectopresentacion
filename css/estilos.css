@@ -4,7 +4,7 @@ header { text-align: center; justify-content: center; align-items: center;
     background-size : 100% auto ; 
 background-color: rgb(0, 0, 0); color:white;height: auto; margin:50px}
 
-body{ background-color: black; color: white; font-family: 'Roboto Mono', monospace;} 
+body{ background-color: rgb(248, 25, 25); color: white; font-family: 'Roboto Mono', monospace;} 
 .nombre{margin:50px}
 
 .fotos1 div{width: 33.3%;  }
